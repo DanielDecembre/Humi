@@ -4,7 +4,7 @@
 
 ### Table of contents
 
--[Description](#description)
+-[Description] (#description)
 -[How To Use] (#how-to-use)
 -[Reference] (#reference)
 
@@ -23,9 +23,10 @@ The first interation gives you a look into how it would work.
 
 -Javascript
 
-  -JQuerey
+-JQuerey
   
+-Ajax
  
-    -AJAX(ajax)
-    
+ -API
+ 
     ---
