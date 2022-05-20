@@ -4,9 +4,9 @@
 
 ### Table of contents
 
--[Description] (#description)
--[How To Use] (#how-to-use)
--[Reference] (#reference)
+-[Description] 
+-[How To Use] 
+-[Reference]
 
 ---
 
