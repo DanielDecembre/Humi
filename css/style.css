@@ -1,0 +1,103 @@
+
+
+
+h1 {
+    text-align: center;
+    color: silver;
+}
+
+
+ h2 {
+text-align: center;
+color: silver;;
+}
+
+h3 {
+     text-align: center;
+     color: black;
+     padding: 10px;
+}
+
+body {
+  margin:0;
+  padding: 0;
+     background-color: #000185;
+ }
+ 
+ div {
+     text-align: center;
+ }
+
+ a {
+    color: black;
+}
+
+.API {
+    display: block;
+    width: 36px;
+    height: 45px;
+    text-indent: 0%;
+    white-space: nowrap;
+    margin: 0 auto;
+    justify-content: center;
+    
+}
+.font-size{
+    justify-content: right;
+}
+
+
+.header-logo {
+    display: block;
+    width: 56px;
+    height: 35px;
+    text-indent: 50%;
+    white-space: nowrap;
+    margin: 0 auto;
+    justify-content: center;
+}
+ sub-title {
+    display: flex;
+     justify-content: center;
+    align-items: center;
+ } 
+
+  search-box{
+     position: absolute;
+     top: 50;
+     left: 50;
+     transform: translate(-50,-50);
+     background: black;
+     height: 40px;
+     border-radius: 40px;
+     padding: 10px;
+ } 
+
+  search-box:hover > search-text{
+     width: 240px;
+     padding: 0 6px;
+ }
+ search button {
+     color: black;
+     float: right;
+     width: 20px;
+     height: 20px;
+     border-radius: 50%;
+     background: black;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+ }
+ search-text{
+     border: none;
+     background: none;
+     outline: none;
+     float: left;
+     padding: 0;
+     color:white;
+     font-size: 16px;
+     transition: 0.4s;
+     line-height: 40px;
+     width: 240px;
+ } 
+
