@@ -46,8 +46,17 @@ body {
     justify-content: right;
 }
 
+.Logos {
+    display: block;
+    width: 56px;
+    height: 35px;
+    text-indent: 50%;
+    white-space: nowrap;
+    margin: 0 auto;
+    justify-content: space-between;
+}
 
-.header-logo {
+/* .header-logo {
     display: block;
     width: 56px;
     height: 35px;
@@ -55,7 +64,7 @@ body {
     white-space: nowrap;
     margin: 0 auto;
     justify-content: center;
-}
+} */
  sub-title {
     display: flex;
      justify-content: center;
